@@ -1,4 +1,5 @@
      D ARR2            S              3P 0 DIM(5) CTDATA PERRCD(1)
+      *
      D N               S              2P 0 INZ(1)
      D X               S              2P 0 INZ(1)
      d sum             s              4p 0 inz(0)

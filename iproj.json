@@ -1,0 +1,11 @@
+{
+  "repository": "git@github.com:KellyZhang888/KellyARCAD5.git",
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {files}",
+  "extensions": {
+    "arcad": {
+      "code": "TSTAPP5"
+    }
+  },
+  "objlib": "&verlibtstapp5"
+}
